@@ -1,4 +1,4 @@
-hello
+
 <!DOCTYPE html>
 <html lang="en">
 <meta charset="UTF-8">
@@ -11,7 +11,9 @@ hello
 <body>
 
 
-<div id="vis"></div>
+<div id="vis1"></div>
+  
+<div id="vis2"></div>
 
 
 <script src="https://cdn.jsdelivr.net/npm/vega@6"></script>
@@ -19,7 +21,10 @@ hello
 <script src="https://cdn.jsdelivr.net/npm/vega-embed@7"></script>
 <script> 
 var spec = 'https://raw.githubusercontent.com/anyat2/anyat2.github.io/refs/heads/main/chart.json'
-vegaEmbed('#vis', spec); 
+vegaEmbed('#vis1', spec); 
+var spec = 'https://raw.githubusercontent.com/anyat2/anyat2.github.io/refs/heads/main/chart.json'
+vegaEmbed('#vis2', spec);
 </script>
 </body>
 </html>
+
