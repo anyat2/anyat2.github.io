@@ -15,15 +15,17 @@ The second visualization focuses on the types of complaints submitted. The most 
 
 ## Contextual Visualization 1
 
-<iframe src="chart1.html" width="100%" height="400"></iframe>
+<iframe src="assets/vis/chart1.html" width="100%" height="600"></iframe>
+
+
 
 ## Contextual Visualization 2
 
-<iframe src="chart2.html" width="100%" height="400"></iframe>
+<iframe src="assets/vis/chart2.html" width="100%" height="600"></iframe>
 
 This chart shows complaint patterns across housing blocks.
 
-<iframe src="block_chart.html" width="100%" height="600"></iframe>
+<iframe src="assets/vis/block_chart.html" width="100%" height="600"></iframe>
 
 
 
