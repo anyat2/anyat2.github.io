@@ -23,9 +23,13 @@ The second visualization focuses on the types of complaints submitted. The most 
 
 <iframe src="assets/vis/chart2.html" width="100%" height="600"></iframe>
 
-This chart shows complaint patterns across housing blocks.
+This chart shows complaint patterns across blocks.
 
-<iframe src="assets/vis/block_chart.html" width="100%" height="600"></iframe>
+The interactive chart shows complaints corresponding to seasons.
+
+<iframe src="assets/vis/seasonchart2.html" width="100%" height="600"></iframe>
+
+
 
 
 
