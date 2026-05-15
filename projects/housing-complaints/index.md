@@ -1,5 +1,4 @@
-layout: default
-title: Housing Complaints in the Urbana Champaign Area
+ Housing Complaints in the Urbana Champaign Area
 
 This project explores housing complaint trends across housing blocks and seasons using interactive visualizations.
 
